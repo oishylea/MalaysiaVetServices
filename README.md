@@ -13,3 +13,7 @@ For this project, I am using the [List of Licensed and Registered Veterinary Cli
 ## Updated Dataset Overview
 <p align="center"><img src="images/UpdatedRegisteredVet.png" alt="vetdataset.png" width="80%" /></p>
 
+## Data Visualization
+<p align="center"><img src="visualized/MengikutNegeri.png" alt="MengikutNegeri.png" width="80%" /></p>
+
+
